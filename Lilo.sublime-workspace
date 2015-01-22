@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"Secur",
+				"SecurityContext"
+			],
+			[
+				"PJ",
+				"PJ\\BlogBundle\\Form\\ImageType  (class)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Pierre/Dropbox/wamp/www/Lilo/Lilo/package.json",
+		"/C/Users/Pierre/Dropbox/wamp/www/Lilo/Lilo/Lilo.sublime-project",
+		"/C/Users/Pierre/Dropbox/wamp/www/Lilo/package.json",
+		"/C/Users/Pierre/Dropbox/wamp/www/Lilo/Lilo.sublime-project",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 2/e83773c626886cfabd9d1072246e087e11c614b9/OpenClassroom1/CV.html",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 2/e83773c626886cfabd9d1072246e087e11c614b9/OpenClassroom1/NewFile.css",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 2/d737d2a190c7e16ac319933ae58cd54e19ac2bd8/cv.html",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 2/d737d2a190c7e16ac319933ae58cd54e19ac2bd8/style.css",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 2/e74a1a2b41424d09ddd4283eb2bd05e1f351e8ec/01-activite - Structurer son CV/StructurerSonCV.html",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 2/e74a1a2b41424d09ddd4283eb2bd05e1f351e8ec/01-activite - Structurer son CV/style2.css",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 1/Activité 1/index.html",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 1/Activité 1/style.css",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 1/b024b9031cfc887863b156caf45b5d474b6f96ce/Exercise1/cv.html",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 1/ad83d9bbf7d77353b5790355108c8a22ab0d1384/Mon cv en ligne/CV.html",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 1/2624b5126f2754594acaed00c332ab0c0fdd59f0/cv vincent/cv vincent.html",
+		"/E/Pierre/Google Drive/Programmation/xHTML-CSS/Activité 1/index.html",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/app/Resources/views/base.html.twig",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/src/Destinee/Bundle/WebBundle/Resources/config/routing.yml",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/src/Destinee/Bundle/WebBundle/Controller/HomepageController.php",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/app_dev.php",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/partials/_buttons.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/styles.scss",
+		"/E/wamp/www/Destinee/FICHIERS/Destinee-online/administration/Automatique.php",
+		"/E/wamp/www/Destinee/FICHIERS/Destinee-online/gilnarfein/quantiteressources.php",
+		"/E/wamp/www/Destinee/FICHIERS/Destinee-online/forge.php",
+		"/E/wamp/www/Destinee/FICHIERS/Destinee-online/maj_or_mana.php",
+		"/E/wamp/www/Destinee/FICHIERS/Destinee-online/restore_pnj.php",
+		"/E/wamp/www/Destinee/FICHIERS/Destinee-online/test.php",
+		"/E/wamp/www/Destinee/FICHIERS/Destinee-online/restore_secours_.php",
+		"/C/Users/Pierre/AppData/Roaming/Skype/My Skype Received Files/creatures.sql",
+		"/E/wamp/www/Destinee/FICHIERS/Destinee-online/encyclopedie_creatures.php",
+		"/E/wamp/www/Destinee/FICHIERS/Destinee-online/combat/affrontement.inc",
+		"/E/Pierre/Téléchargement/pod_web_2014.01.01_01.sql/pod_web_2014.01.01_01.sql",
+		"/E/Pierre/Téléchargement/IronbaneServer-develop/IronbaneServer-develop/Server.js",
+		"/C/Users/Pierre/Desktop/heure.html",
+		"/E/Pierre/Documents/Sites Web/Destinee/Integration/graphisme/graphisme/Doc/Navigation/connect.php",
+		"/E/wamp/www/Destinee/FICHIERS/Destinee-online/connect.php",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/partials/_dropdown.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/partials/_forms.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/partials/_variables.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/partials/_responsive-menu.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/bootstrap/_variables.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/src/Destinee/Bundle/WebBundle/Resources/views/Homepage/main.html.twig",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/partials/_reponsive-menu.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/partials/_noise.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/bootstrap/_forms.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/bootstrap/_dropdowns.scss",
+		"/C/Users/Pierre/Desktop/boutton.html",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/stylesheets/styles.css",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/partials/_mixins.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/partials/_mixins.scsss",
+		"/C/Users/Pierre/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Pierre/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Pierre/Desktop/button.css",
+		"/C/Users/Pierre/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/app/config/routing.yml",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/app/config/routing_dev.yml",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/views/Exception/error.html.twig",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/views/Exception/exception.html.twig",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/app/AppKernel.php",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/index.html",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/.htaccess",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/app/Resources/TwigBundle/views/Exception/error.html.twig",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/app/config/security.yml",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/app/config/parameters.yml",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/app/config/config_test.yml",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/app/config/config_dev.yml",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/app/config/config.yml",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/.travis.yml",
+		"/C/Users/Pierre/Dropbox/wamp/www/pjblog/web/app.php",
+		"/C/Users/Pierre/Dropbox/wamp/www/pjblog/web/app_dev.php",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/old.htaccess",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/config.rb",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/config.rb",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/index.html",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/sass/_bootstrap.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/destinee/web/js/main.js",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/js/main.js",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/sass/styles.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/mailing_vue.php",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/mailing.php",
+		"/E/Pierre/Google Drive/Programmation/Node/Tests/views/index.jade",
+		"/E/Pierre/Google Drive/Programmation/Node/Tests/app.js",
+		"/E/Pierre/Google Drive/Programmation/Node/Tests/package.json",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/sass/bootstrap/_dropdowns.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/sass/_multiselect.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/js/vendor/bootstrap-multiselect.js",
+		"/C/Users/Pierre/Desktop/labrasor.html",
+		"/C/Users/Pierre/Desktop/puduku.html",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/sass/_bootstrap.scss",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/.htaccess",
+		"/C/Users/Pierre/Dropbox/wamp/www/AMD/stylesheets/styles.css",
+		"/E/wamp/www/AMD/js/main.js",
+		"/E/wamp/www/AMD/sass/styles.scss",
+		"/E/wamp/www/AMD/index.html",
+		"/E/wamp/www/AMD/sass/bootstrap/_variables.scss",
+		"/E/wamp/www/AMD/sass/bootstrap/_glyphicons.scss",
+		"/E/wamp/www/AMD/sass/bootstrap/_utilities.scss",
+		"/E/wamp/www/AMD/sass/_bootstrap-variables.sass",
+		"/E/wamp/www/AMD/config.rb",
+		"/E/wamp/www/AMD/sass/bootstrap.scss",
+		"/E/wamp/www/AMD/sass/styles.sass",
+		"/E/wamp/www/AMD/sass/_bootstrap-compass.scss",
+		"/E/wamp/www/test/info_telecharger.php",
+		"/E/wamp/www/test/download.php",
+		"/E/wamp/www/test/info_file.php",
+		"/C/Ruby200-x64/lib/ruby/gems/2.0.0/gems/bootstrap-sass-3.2.0.0/assets/javascripts/bootstrap.js",
+		"/C/Ruby200-x64/lib/ruby/gems/2.0.0/gems/bootstrap-sass-3.2.0.0/assets/javascripts/bootstrap-sprockets.js",
+		"/C/Ruby200-x64/lib/ruby/gems/2.0.0/gems/bootstrap-sass-3.2.0.0/assets/stylesheets/bootstrap.scss",
+		"/C/Ruby200-x64/lib/ruby/gems/2.0.0/gems/bootstrap-sass-3.2.0.0/templates/project/styles.sass",
+		"/E/wamp/www/AMD/gemfile",
+		"/E/wamp/www/AMD/Gemfile.lock",
+		"/E/Pierre/Google Drive/Programmation/Node/Tests/routes/index.js",
+		"/E/Pierre/Google Drive/Programmation/Node/Tests/routes/users.js",
+		"/E/Pierre/Google Drive/Programmation/Node/Tests/helloworld.js",
+		"/E/Pierre/Google Drive/Programmation/Node/RTRPG/app.js",
+		"/E/Pierre/Google Drive/Programmation/Node/RTRPG/shared/game/Character.js",
+		"/E/Pierre/Google Drive/Programmation/Node/RTRPG/shared/game/Types.js",
+		"/E/Pierre/Téléchargement/BrowserQuest-master/BrowserQuest-master/client/js/entity.js",
+		"/E/Pierre/Téléchargement/BrowserQuest-master/BrowserQuest-master/client/js/character.js",
+		"/E/Pierre/Téléchargement/BrowserQuest-master/BrowserQuest-master/client/js/player.js",
+		"/E/Pierre/Téléchargement/realtime-multiplayer-in-html5-master/realtime-multiplayer-in-html5-master/app.js",
+		"/E/Pierre/Documents/my games/Watch_Dogs/a23a1ed1-5ac8-4b92-9a22-e0c72eb3a3f7/GamerProfile.xml",
+		"/E/Pierre/Google Drive/Programmation/Node/RTRPG/shared/game/Player.js",
+		"/E/Pierre/Téléchargement/BrowserQuest-master/BrowserQuest-master/shared/js/gametypes.js",
+		"/E/Pierre/Téléchargement/BrowserQuest-master/BrowserQuest-master/client/js/animation.js",
+		"/E/Pierre/Téléchargement/realtime-multiplayer-in-html5-master/realtime-multiplayer-in-html5-master/game.core.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"em",
+			"92",
+			"th",
+			"td",
+			"classement",
+			"menu",
+			"3em",
+			"form-control",
+			"select",
+			"9d6a47",
+			"4",
+			";\n",
+			"app.php",
+			"deny",
+			"allow deny",
+			"allow/deny",
+			"allow",
+			"css",
+			"select",
+			"dropdown-menu",
+			"none selected",
+			"Titre",
+			"mod_headers",
+			"mod_de",
+			"#",
+			"03",
+			"col-sm-9",
+			");\n",
+			"th",
+			" \n",
+			".\n",
+			"sdz",
+			"())",
+			");\n",
+			"true",
+			"0px",
+			"navbar",
+			"2uguAAAAAElFTkSuQmCC"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"strong",
+			"app_dev.php",
+			"stylesheets",
+			"col-sm-8",
+			"pj"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Lilo.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Pierre\\Dropbox\\wamp\\www\\destinee\\web\\sass\\styles.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
