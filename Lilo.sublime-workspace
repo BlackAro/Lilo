@@ -84,7 +84,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Pierre/Dropbox/wamp/www/Lilo/Lilo/README.md",
+		"/C/Users/Pierre/Dropbox/wamp/www/Lilo/Lilo/node_modules/node-mysql/README.md",
 		"/C/Users/Pierre/Dropbox/wamp/www/Lilo/Lilo/package.json",
+		"/C/Users/Pierre/Dropbox/wamp/www/Lilo/Lilo/node_modules/node-mysql/package.json",
 		"/C/Users/Pierre/Dropbox/wamp/www/Lilo/Lilo/Lilo.sublime-project",
 		"/C/Users/Pierre/Dropbox/wamp/www/Lilo/package.json",
 		"/C/Users/Pierre/Dropbox/wamp/www/Lilo/Lilo.sublime-project",
@@ -208,10 +211,7 @@
 		"/E/Pierre/Téléchargement/BrowserQuest-master/BrowserQuest-master/client/js/player.js",
 		"/E/Pierre/Téléchargement/realtime-multiplayer-in-html5-master/realtime-multiplayer-in-html5-master/app.js",
 		"/E/Pierre/Documents/my games/Watch_Dogs/a23a1ed1-5ac8-4b92-9a22-e0c72eb3a3f7/GamerProfile.xml",
-		"/E/Pierre/Google Drive/Programmation/Node/RTRPG/shared/game/Player.js",
-		"/E/Pierre/Téléchargement/BrowserQuest-master/BrowserQuest-master/shared/js/gametypes.js",
-		"/E/Pierre/Téléchargement/BrowserQuest-master/BrowserQuest-master/client/js/animation.js",
-		"/E/Pierre/Téléchargement/realtime-multiplayer-in-html5-master/realtime-multiplayer-in-html5-master/game.core.js"
+		"/E/Pierre/Google Drive/Programmation/Node/RTRPG/shared/game/Player.js"
 	],
 	"find":
 	{
